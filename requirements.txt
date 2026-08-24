@@ -1,0 +1,12 @@
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+pytest
+black
+flake8
+mypy
