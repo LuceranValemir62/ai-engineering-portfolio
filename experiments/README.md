@@ -1,3 +1,3 @@
-# Documentation
+# Experiments
 
-This folder contains documentation, learning notes, architecture explanations, resume information, and project guides.
+This folder contains experiment logs, test scripts, small prototypes, and model experiments.
